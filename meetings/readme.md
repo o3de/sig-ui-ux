@@ -24,7 +24,7 @@ Below is a list of all prior completed meetings and related resources.
 
 | No   | Date       | Time | Agenda  | Media | Notes | Resources |
 | ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2021-00-00 | 0000 UTC | n/a | n/a | Link | Link |
+| 0001 | 2021-07-22 | 0000 UTC | n/a | n/a | Link | Link |
 
 # General Resources
 
