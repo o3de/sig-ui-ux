@@ -19,3 +19,9 @@ This Office Hours provide assistance for user research, user experience design, 
 * Who are the users your project is designed for? Who are the users/user groups affected by the change?
 * What success looks like and how will we measure it? How much is specifically related to user interface, usability, learnability, knobs and levers?
 * Materials/Workflows of the existing product. Sketches or wireframes of ideas. PR/FAQ are also help.
+
+**Office hour schedule**
+If you would like to sign up to the office hour, please add your topics to the selected schedule via comments.
+
+* [08/04/2021](https://github.com/o3de/sig-ui-ux/issues/23)
+* 08/11/2021
