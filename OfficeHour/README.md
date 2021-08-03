@@ -9,9 +9,6 @@ The UI/UX SIG is running Office Hours every Wednesday at 11am Pacific Time. The 
 * Discuss certain customer pain points or UX related topics.
 * Brainstorm ideas or solutions to a user problem or feature.
 * Submit user research or UX design requests.
-* Not sure if you need UI/UX office hours? Feel free to [reach out to UI/UX SIG on Discord](https://discord.gg/tvYZUKJK)! 
-    * It’s better to have the chance to **power up your project* you’re working on, than skip the opportunity to.
-    * UI/UX SIG can normally be involved during start, middle, and end of projects
 
 **What to bring to the office hour:**
 
@@ -31,4 +28,9 @@ Please click on the date below for the Office Hour that you'd like to sign up to
 * [09/01/2021 11am PST](https://github.com/o3de/sig-ui-ux/issues/27)
 
 The UI/UX Office Hours is sign-up based. We will check the topics 30 mins before the scheduled Office Hour, if no one signs up in the session, we will cancel the session 15 mins before the scheduled time. If the schedule doesn't work for you, please submit a ticket to us with the topics you'd like to chat about, and we will find a time that works for you.
+
+Not sure if you need UI/UX office hours? Feel free to [reach out to UI/UX SIG on Discord](https://discord.gg/tvYZUKJK)! 
+    * It’s better to have the chance to **power up your project* you’re working on, than skip the opportunity to.
+    * UI/UX SIG can normally be involved during start, middle, and end of projects
+
 
