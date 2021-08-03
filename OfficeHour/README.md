@@ -10,7 +10,7 @@ The UI/UX SIG is running Office Hours every Wednesday at 11am Pacific Time. The 
 * Brainstorm ideas or solutions to a user problem or feature.
 * Submit user research or UX design requests.
 * Not sure if you need UI/UX office hours? Feel free to [reach out to UI/UX SIG on Discord](https://discord.gg/tvYZUKJK)! 
-    * It’s better to have the chance to **power up your project* you’re working on, than skip the opportunity to**.
+    * It’s better to have the chance to **power up your project* you’re working on, than skip the opportunity to.
     * UI/UX SIG can normally be involved during start, middle, and end of projects
 
 **What to bring to the office hour:**
