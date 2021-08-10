@@ -101,5 +101,19 @@ As a user, I am able to create simple game in O3DE, using the following elements
 - As a user, I am able to deploy my project to window/mac/linux to test my project.
 - As a user, I am able to share my project with someone else to play.
 
+## Join Us!
+
+So, how can you help with RTE?
+
+There are several opportunities for community members to participate in RTE:
+
+* Participate in a “Walk the Engine”* session
+     We are always looking for folks who are willing to walk the engine. These sessions are typically on camera and recorded, with an audience of AWS folks. This allows for the user to ask questions if they get stuck and to provide feedback as they work. Having a recording allows us to go back and follow the same steps to reproduce errors. It can be a bit intimidating, so remember that Walk the Engine is a test of the engine, not of you!
+* Submit fixes and improvements
+     We always have a backlog of bugs and issues stemming from RTE sessions. Please take a look at the backlog [here] and see if there’s anything you want to help with!
+* Define new user stories and run Walk the Engine sessions
+    Is there a workflow or user story you’re passionate about? Something you think needs extra attention? Work with the UX SIG to define and begin testing on it!
+
+*Walk the Engine comes from the phrase “Walk the store,” a fundamental part of the retail UX experience where a designer would physically walk through the store to ensure that the shopper experience was as intended.*
 
 
