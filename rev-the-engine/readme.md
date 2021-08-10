@@ -64,6 +64,12 @@ For GA, we want to improve the user workflows such that an engine builder studio
 
 To that purpose, the user stories we are currently working on are:
 
+### Workflow 1: Onboarding (Poor → Good)
+
+- As a user, I am able to download the O3DE installer and install O3DE from the installer. 
+- As a user, I am able to create a new project, including selecting Gems, build the project, and open it in O3DE
+
+
 ### Workflow 2: Gameplay (Poor → Passable)
 
 As a user, I am able to create simple game in O3DE, using the following elements in the engine:
@@ -79,10 +85,6 @@ As a user, I am able to create simple game in O3DE, using the following elements
 - As a tech artist, I am able to iterate quickly on my art assets between the DCC tools and O3DE.
 - Authoring in O3DE to make templates and share with other artists to use in their contents.
 
-### Workflow 8: Editor extension (Failed → Passable)
-
-- As an engineer, I am able to create a Gem to extend engine functionality. 
-
 ### Workflow 7: Team collaboration (Failed → Passable)
 
 - As a user, I am able to easily onboard my team and start collaborating with them to build a project.
@@ -90,10 +92,9 @@ As a user, I am able to create simple game in O3DE, using the following elements
 - Asset sharing
 - engine modification deployment
 
-### Workflow 1: Onboarding (Poor → Good)
+### Workflow 8: Editor extension (Failed → Passable)
 
-- As a user, I am able to download the O3DE installer and install O3DE from the installer. 
-- As a user, I am able to create a new project, including selecting Gems, build the project, and open it in O3DE
+- As an engineer, I am able to create a Gem to extend engine functionality. 
 
 ### Workflow 9: Packaging and Deployment (Failed → Passable)
 
