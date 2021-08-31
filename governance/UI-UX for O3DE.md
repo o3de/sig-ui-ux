@@ -1,9 +1,10 @@
 # UI/UX for Open 3D Engine
 
-Welcome O3DE contributors! If you are reading this document,it's likely because of one of two reasons: 
+Welcome O3DE contributors! If you are reading this document,it's likely because of one of three reasons: 
 
 1. You are building or modifying a front end feature of O3DE that has some kind of UI 
 2. You are contributing to our UX/UI patterns and libraries that you want globalized 
+3. Looking for suppor for UI development autonomy.
 
 If it’s the latter, please note you will have some additional steps needed for your contributions to be accepted and moved into our global patterns. Please review the [UX Patterns for O3DE]() document to learn more. Our hope is that by globalizing all of our UX foundational work, we can keep O3DE from becoming a hodgepodge of tooling. It also provides rules for all of us to follow and includes a set of pre built input types that allow developers to work quickly without needing to get UX sign off.  
 
