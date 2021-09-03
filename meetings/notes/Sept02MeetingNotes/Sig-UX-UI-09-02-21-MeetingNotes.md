@@ -3,8 +3,6 @@ Lee Hung Nguyen
 Yuyi Hsu
 ----------
 
-You can submit issues on the links provided in the slide doc
-
 Several programs that we are doing to improve the UX in O3DE
 
    * BlueJay Design System Strategy Plan
