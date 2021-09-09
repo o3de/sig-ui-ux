@@ -1,6 +1,7 @@
-# Rev the Engine
+# Rev the Engine Program
 
-Rev the Engine (RTE) is our program to evaluate and improve the user experience of workflows in O3DE. It consists of several steps: 1) we define a user workflow, 2) we test the workflow with a user (a process we call “Walk the Engine”), 3) we measure the quality of the workflow and report the bugs we find, 4) the community (including the team in AWS) submits fixes for the workflow, 5) repeat. This allows us to understand exactly how users interact with various parts of the engine, and what their expectations are. 
+Rev The Engine (RTE) is our program to measure and improve the user experience of a set of common CX workflows over time in O3DE. It consists of several steps: 1) we define a user workflow, 2) we test the workflow with a user (a process we call “Walk the Engine”), 3) we measure the quality of the workflow and report the bugs we find, 4) the community (including the team in AWS) submits fixes for the workflow, 5) repeat. This allows us to understand exactly how users interact with various parts of the engine, and what their expectations are. 
+
 Amazon started RTE in early 2021, working on common “Day 1,” “Week 1,” and “Month 1” workflows. These are the workflows we’re focusing on:
 
 * #### Day 1 workflow:
@@ -39,10 +40,7 @@ The System Usability Scale (SUS) is an industry standard to measure the usabilit
 
 ### Time-on-task: 
 
-How long time it take users to interact with key, critical workflows for the first time, and throughout time? Each of the workflow should be completed within a reasonable amount of time. We will also use the competitive data as a reference.
- - Iteration time
- - Only a reference, not a hard bar
- - How much user can accomplish within an hour. rather than whether user can accomplish the task in an hour.
+We measure the time and completion rate it takes for users to interact with key, critical workflows for the first time, and how they progress throughout the time. This data will help us understand the quality of each workflow. The longer time users would use a workflow to accomplish a task, the lower performance the workflow has.
 
 ### Issues identified: 
 Each of the usability issues identified from the workflow evaluations will be prioritized in Blocker, Critical, Major, etc. against the goals we setup for each milestone. It is suggested all the Blocker and Critical issues should be addressed by the end of each milestone, and we will evaluate the status of the workflow against how many issues are left unaddressed.
@@ -56,50 +54,9 @@ Based on the measurement framework above, the following rating system is defined
 *	**Failed (F)**- A new customer isn’t able to accomplish the workflow even after reading the documentation, and there’s no workaround solution.
 
 
+## More about Rev the Engine Program
 
-
-## Goals for GA in 2021
-
-For GA, we want to improve the user workflows such that an engine builder studio can evaluate the engine by building a simple game with a few tech artists in the team, and package and test the game on different platforms.
-
-To that purpose, the user stories we are currently working on are:
-
-### Workflow 1: Onboarding (Poor → Good)
-
-- As a user, I am able to download the O3DE installer and install O3DE from the installer. 
-- As a user, I am able to create a new project, including selecting Gems, build the project, and open it in O3DE
-
-
-### Workflow 2: Gameplay (Poor → Passable)
-
-As a user, I am able to create simple game in O3DE, using the following elements in the engine:
-
-- Asset pipeline- I am able to import some assets with multiple materials from DCC tools to O3DE and achieve what you see is what you get (WYSIWYG). I should also be also able to iterate smoothly between my DCC tools and O3DE.
-- Control the actor- I am able to setup a simple actor and control it to move around in the scene. (Actor, Controller, Input, Camera, Script Canvas)
-- Environment- I am able to setup a simple environment with obstacles. (Whitebox, Asset Pipeline, Mesh, Material, Lighting, etc.)
-- Game logic- I am able to setup the simple game events that include interacting with the obstacles in the environment and triggering audio and particle events, while doing so, the UI will display a simple scoring system telling the player their progress. (Script Canvas, GameState, Physics, UI)
-
-
-### Workflow 5: Look development (Poor → Passable)
-
-- As a tech artist, I am able to iterate quickly on my art assets between the DCC tools and O3DE.
-- Authoring in O3DE to make templates and share with other artists to use in their contents.
-
-### Workflow 7: Team collaboration (Failed → Passable)
-
-- As a user, I am able to easily onboard my team and start collaborating with them to build a project.
-- Level authoring
-- Asset sharing
-- engine modification deployment
-
-### Workflow 8: Editor extension (Failed → Passable)
-
-- As an engineer, I am able to create a Gem to extend engine functionality. 
-
-### Workflow 9: Packaging and Deployment (Failed → Passable)
-
-- As a user, I am able to deploy my project to window/mac/linux to test my project.
-- As a user, I am able to share my project with someone else to play.
+1. RTE Roadmap
 
 ## Join Us!
 
