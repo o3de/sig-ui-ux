@@ -63,6 +63,16 @@ Yes! We welcome participation in the UI/UX SIG. You can choose a contribution am
 * If you are interested in just contributing patterns or tool, see [the O3DE Patterns for O3DE] documentation
 * If you would like to contribute as a UI/UX SIG member, join the mailing list and introduce yourself there or in our Discord channel.
 
+
+## What would I get for helping?
+* We will now start looking for opportunities to see if community members want to start picking up tickets and becoming more active members of the UX process. This will require some kind of contributor leveling to know to which degree this person can be trusted to work on tickets alone. My suggestion is based on the number of tickets this individual has accomplished previously. Example
+    *  Beginner level - 0 to 5 tickets (5 tickets)
+    * Green level - 6 to 16 tickets (10 tickets)
+    * Mid Level - 17 - 32 tickets (15 tickets)
+    * Advanced - 33 to 53 tickets (20 tickets)
+    * Staff - 54 and above
+
+
 ## Future Additions to this guide
 
 * What things can I do on my own?
