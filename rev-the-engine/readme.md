@@ -19,6 +19,7 @@ Amazon started RTE in early 2021, working on common “Day 1,” “Week 1,” a
   * Workflow 7 - Team collaboration: working on a project with multiple contributors
   * Workflow 8 - Editor extension: the process of creating Gems to extend the functionality of the engine
   * Workflow 9 - Packaging & deployment: the process of packaging and sharing your project
+  * Workflow 10 - Cloud services integration: the process to integrate other 3rd party cloud services, such as AWS, with your project.
 
 Each of these workflows are broad and will look different depending on what project you are working on. Within each are various user stories; when running Walk the Engine sessions we will focus on specific user stories from each workflow.
 
@@ -47,11 +48,11 @@ Each of the usability issues identified from the workflow evaluations will be pr
 
 Based on the measurement framework above, the following rating system is defined:
 
-* **Excellent (A)** - A new customer should be able to accomplish the identified workflow within a reasonable amount of time without the use of documentation or help from others. The SUS score should be above 80.3. All the blocker, critical and major issues identified through the evaluation are addressed.
-*	**Good (B)** - A new customer should be able to accomplish the workflow with some help from documentation or instructions from others within a reasonable amount of time. The SUS score should be above 68. All the blocker and critical issues should be addressed.
-*	**Passable (C)** - A new customer will need to read the documentation and follow instructions to learn how to perform certain tasks in the workflow, and they can confidently accomplish the workflow the second time within a reasonable amount of time and without any help of documentation. The SUS score should be above 51. All the blocker and critical issues should be addressed.
-*	**Poor (D)** - A new customer isn’t able to accomplish the workflow easily due to blocker or critical issues, or it might take them extremely long hours to accomplish the workflow with workaround solutions. The SUS score is below 51.
-*	**Failed (F)**- A new customer isn’t able to accomplish the workflow even after reading the documentation, and there’s no workaround solution.
+* **Excellent (5)** - A new customer should be able to accomplish the identified workflow within a reasonable amount of time without the use of documentation or help from others. The SUS score should be above 80.3. All the blocker, critical and major issues identified through the evaluation are addressed.
+*	**Good (4)** - A new customer should be able to accomplish the workflow with some help from documentation or instructions from others within a reasonable amount of time. The SUS score should be above 68. All the blocker and critical issues should be addressed.
+*	**Passable (3)** - A new customer will need to read the documentation and follow instructions to learn how to perform certain tasks in the workflow, and they can confidently accomplish the workflow the second time within a reasonable amount of time and without any help of documentation. The SUS score should be above 51. All the blocker and critical issues should be addressed.
+*	**Poor (2)** - A new customer isn’t able to accomplish the workflow easily due to blocker or critical issues, or it might take them extremely long hours to accomplish the workflow with workaround solutions. The SUS score is below 51.
+*	**Failed (1)**- A new customer isn’t able to accomplish the workflow even after reading the documentation, and there’s no workaround solution.
 
 
 ## More about Rev the Engine Program
