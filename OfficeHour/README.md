@@ -19,11 +19,9 @@ The UI/UX SIG is running Office Hours every Wednesday at 11am Pacific Time. The 
 
 **Sign up to the Office Hours**
 
-Please click on the date below for the Office Hour that you'd like to sign up to, and leave the topics you would like to discuss in the comments. 
+Please click on the issues tab above for the Office Hour that you'd like to sign up to, and leave some details on the topic you would like to discuss in the comments. 
 
-* [09/15/2021 11am PST](https://github.com/o3de/sig-ui-ux/issues/34)
-* [09/22/2021 11am PST](https://github.com/o3de/sig-ui-ux/issues/35)
-* [09/29/2021 11am PST](https://github.com/o3de/sig-ui-ux/issues/36)
+[Link to list of office hours sign up topics](https://github.com/o3de/sig-ui-ux/issues)
 
 The UI/UX Office Hours is sign-up based. We will check the topics 30 mins before the scheduled Office Hour, if no one signs up in the session, we will cancel the session 15 mins before the scheduled time. If the schedule doesn't work for you, please submit a ticket to us with the topics you'd like to chat about, and we will find a time that works for you.
 
