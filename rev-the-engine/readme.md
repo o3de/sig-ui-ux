@@ -57,7 +57,7 @@ Based on the measurement framework above, the following rating system is defined
 
 ## More about Rev the Engine Program
 
-1. RTE Roadmap
+1. [Goals for 2021](https://github.com/o3de/sig-ui-ux/blob/main/rev-the-engine/2021Goal.md)
 
 ## Join Us!
 
