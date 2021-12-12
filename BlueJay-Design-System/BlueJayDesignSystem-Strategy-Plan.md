@@ -13,10 +13,10 @@ This approach allows our customers to focus on solving new and novel problems, i
 
 ### **BJDS tenets:**
 
-* *Efficiency* in user interactions and workflows*.*
-* *Accessibility* first*.* Accessibility options, such as color contrasts, fonts and icon legibility, interactions and scalability etc. are built into our the tool from the first step.
+* *Efficiency* in user interactions and workflows.
+* *Accessibility* first Accessibility options, such as color contrasts, fonts and icon legibility, interactions and scalability etc. are built into our the tool from the first step.
 * *Familiar patterns* for visual interfaces, tools, branding, and UI elements. Don’t reinvent the wheel and confuse users.
-* *Modularity* is key to each element of O3DE, including the interface design*.* 
+* *Modularity* is key to each element of O3DE, including the interface design
 
 ### **Included in the BlueJay Design System**
 
