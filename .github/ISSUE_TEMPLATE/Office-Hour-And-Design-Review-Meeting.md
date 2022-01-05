@@ -13,7 +13,7 @@ assignees: ''
 Hi O3DE Community,
 We want to invite you to our UX UI design review and office hours. 
 
-- **Date/Time:**  XX/XX/XXXX @ 11:00am PT
+- **Date/Time:**  XX/XX/XXXX @ 10:00am PT
 - **Location:** [Discord SIG-UI-UX Voice Room](https://discord.gg/Mc6jStmuMK)
 - **Moderator:** UI/UX SIG Committee
 - **Note Taker** UI/UX SIG Committee
