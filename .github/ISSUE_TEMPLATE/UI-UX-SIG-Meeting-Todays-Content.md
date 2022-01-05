@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 **##Schedule**
-- **Date/Time:** XX/XX/XXXX @ 10:00am PST
+- **Date/Time:** XX/XX/XXXX @ 10:00am PT
 - **Location:** [Discord SIG-UI-UX Voice Room](https://discord.gg/Mc6jStmuMK)
 - **Moderator:** UI/UX SIG Committee
 - **Note Taker** UI/UX SIG Committee
@@ -55,4 +55,3 @@ o Some prepared questions about the tickets you own
 ## Cut-off time / cancellation 
 • For the UI/UX bi-weekly meeting the UI-UX SIG team will check the GitHub Agenda item ticket 24 hours before the scheduled meeting, if no one signs up in the session, we will lock down the agenda of that day.
 • If you are unable to attend after signing up, Please just reach out in discord or on the ticket to let us know about the change.
-
