@@ -1,8 +1,17 @@
+---
+name: SIG-UI-UX Office hours
+about: SIg UX-UI design review and office hours
+title: Open UX UI Office hours =description=
+labels: 'UX-OfficeHours'
+assignees: ''
+
+---
+
 
 ## SIG-UI-UX Office Hours for XX-XX-XXXX
 
 Hi O3DE Community,
-We want to invite you to our UX design review and office hours. 
+We want to invite you to our UX UI design review and office hours. 
 
 - **Date/Time:**  XX/XX/XXXX @ 11:00am PT
 - **Location:** [Discord SIG-UI-UX Voice Room](https://discord.gg/Mc6jStmuMK)
