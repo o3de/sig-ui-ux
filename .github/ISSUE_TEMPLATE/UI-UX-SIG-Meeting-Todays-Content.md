@@ -1,10 +1,17 @@
 ---
-name: UI-UX SIG: Meeting — today’s content
+name: UI-UX SIG Meeting — todays content
 about: SIG UX-UI bi-weekly meeting program feedback, global updates, triage, and design review
 title: SIG UX-UI bi-weekly meeting to review todays most important topics for UX team
-labels: 'UX-bi-weekly-meeting'
+labels: 'UX-biweekly-meeting'
 assignees: ''
+
 ---
+
+
+## UI-UX SIG Meeting — todays content for XX-XX-XXXX
+
+Hi O3DE Community,
+We want to invite you to our meeting program feedback, global updates, triage, and design review. 
 
 **##Schedule**
 - **Date/Time:** XX/XX/XXXX @ 10:00am PT
