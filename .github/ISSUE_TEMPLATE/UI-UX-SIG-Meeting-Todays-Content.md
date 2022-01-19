@@ -11,9 +11,9 @@ assignees: ''
 ## UI-UX SIG Meeting — todays content for XX-XX-XXXX
 
 Hi O3DE Community,
-We want to invite you to our meeting program feedback, global updates, triage, and design review. 
+We want to invite you to our meeting program feedback, RTE updates, triage, and design specific conversations.  The purpose is to discuss the UX gap with the community and the team. Talk about the plan and what needs to change and create a  direction for us  to help best resolve these issues. 
 
-**##Schedule**
+## Schedule
 - **Date/Time:** XX/XX/XXXX @ 10:00am PT
 - **Location:** [Discord SIG-UI-UX Voice Room](https://discord.gg/Mc6jStmuMK)
 - **Moderator:** UI/UX SIG Committee
