@@ -109,8 +109,20 @@ We have now established some ground rules about how ticket triage will work. The
     * A reviewer will have the ability to add remove tags in open conversation with the community. During that time the reviewer (Sig UI-UX representative) will be able to drive the conversation around what labels should be added and removed. Long term, I would expect that specific reviewer members who earn the label "Sig UX UI staff" would earn these same abilities and could step in to drive these conversations. Please see more about leveling up below.
 
 
-### Search queries:
-* *Ready for triage list:*
+### Search queries Daily:
+* * Pull request
+       * https://github.com/o3de/o3de/pulls/review-requested/@me
+
+### Search queries Triage:
+* * Blocker / Critical
+       * https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fblocker%2Cpriority%2Fcritical+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+
+*  * Major / Minor
+       * https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fmajor%2Cpriority%2Fminor+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+
+* * (no priortiy ) - Major, - minor, - critical,- blocker
+       *  https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+-label%3Apriority%2Fmajor%2Cpriority%2Fminor%2Cpriority%2Fcritical%2Cpriority%2Fblocker+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+  
+
+### Other search queries:       
+* * Full list*
     * https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+-label%3Aneeds-ux-action%2C+-label%3Aneeds-ux-info%2C+-label%3Astatus%2Fneeds-ux-approval%2C+-label%3Aui-ux%2Fin-design%2C+-label%3Astatus%2Fux-approved
 * *Needs UX action but doesn’t currently have a UX owner.*
     * Global search (top left of page) is:open label:sig/ui-ux, label:needs-ux-action -assignee:bhanuja-s -assignee:rainbj -assignee:amzn-leenguy -assignee:yuyihsu
