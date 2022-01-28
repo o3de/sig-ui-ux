@@ -109,35 +109,39 @@ We have now established some ground rules about how ticket triage will work. The
     * A reviewer will have the ability to add remove tags in open conversation with the community. During that time the reviewer (Sig UI-UX representative) will be able to drive the conversation around what labels should be added and removed. Long term, I would expect that specific reviewer members who earn the label "Sig UX UI staff" would earn these same abilities and could step in to drive these conversations. Please see more about leveling up below.
 
 
-### Search queries Daily:
-* * Pull request
-       * https://github.com/o3de/o3de/pulls/review-requested/@me
+### Search Queries Daily:
+<table style="border:0px;">
+<tr><td width="200px;"> Invidiual Pull request </td><td> https://github.com/o3de/o3de/pulls/review-requested/@me </td></tr>
+<tr><td> Mentions </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+mentions%3A%40me </td></tr>
+</table>
 
-### Search queries Triage:
-* * Blocker / Critical
-       * https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fblocker%2Cpriority%2Fcritical+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+
-*  * Major / Minor
-       * https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fmajor%2Cpriority%2Fminor+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+
-* * (no priortiy ) - Major, - minor, - critical,- blocker
-       *  https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+-label%3Apriority%2Fmajor%2Cpriority%2Fminor%2Cpriority%2Fcritical%2Cpriority%2Fblocker+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+  
+### Search Queries Triage:
 
-### Other search queries:       
-* * Full list*
-    * https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+-label%3Aneeds-ux-action%2C+-label%3Aneeds-ux-info%2C+-label%3Astatus%2Fneeds-ux-approval%2C+-label%3Aui-ux%2Fin-design%2C+-label%3Astatus%2Fux-approved
-* *Needs UX action but doesn’t currently have a UX owner.*
-    * Global search (top left of page) is:open label:sig/ui-ux, label:needs-ux-action -assignee:bhanuja-s -assignee:rainbj -assignee:amzn-leenguy -assignee:yuyihsu
-    * https://github.com/o3de/o3de/search?q=is%3Aopen+label%3Asig%2Fui-ux%2C+label%3Aneeds-ux-action+-assignee%3Abhanuja-s+-assignee%3Arainbj+-assignee%3Aamzn-leenguy+-assignee%3Ayuyihsu&type=issues
-* *Tickets that are assigned to “sig/ui-ux” and needs triaged*
-    * Blocker/Critical bugs: https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+label%3Apriority%2Fcritical%2Cpriority%2Fblocker+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+
-    * Pull requests: https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+label%3Asig%2Fui-ux+-label%3Astatus%2Fneeds-ux-approval%2Cneeds-ux-action%2Cstatus%2Fux-approved
-    * Bugs without priority: https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+-label%3Apriority%2Fcritical%2Cpriority%2Fblocker%2Cpriority%2Fmajor%2Cpriority%2Fminor+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+
-    * Major bugs: https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+label%3Apriority%2Fmajor+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+
-    * Minor bugs: https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+label%3Apriority%2Fminor+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+
-* *Tickets that are assigned to “sig/ui-ux” and have been triaged*
-    * Needs-ux-action: https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Aneeds-ux-action
-    * Ui-ux/in-design: https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Aui-ux%2Fin-design
-* *Tickets that need UX approval:*
-    *  https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Astatus%2Fneeds-ux-approval
+<table style="border:0px;">
+<tr><td width="200px;"> Team Pull requests </td><td> https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+label%3Asig%2Fui-ux+-label%3Astatus%2Fneeds-ux-approval%2Cneeds-ux-action%2Cstatus%2Fux-approved </td></tr>
+       
+<tr><td> Blocker / Critical </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fblocker%2Cpriority%2Fcritical+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+ </td></tr>
+       
+<tr><td> Major / Minor </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fmajor%2Cpriority%2Fminor+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+ </td></tr>
+       
+<tr><td>(No priortiy) -Major, -Minor, -Critical, -Blocker </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+-label%3Apriority%2Fmajor%2Cpriority%2Fminor%2Cpriority%2Fcritical%2Cpriority%2Fblocker+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+  </td></tr></table>
+ 
+
+### Other queries:   
+<table style="border:0px;">
+<tr><td width="200px;">Full list </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+-label%3Aneeds-ux-action%2C+-label%3Aneeds-ux-info%2C+-label%3Astatus%2Fneeds-ux-approval%2C+-label%3Aui-ux%2Fin-design%2C+-label%3Astatus%2Fux-approved  </td></tr>
+
+<tr><td width="200px;"> Global - is open and assigned to a designer </td><td> https://github.com/o3de/o3de/search?q=is%3Aopen+label%3Asig%2Fui-ux%2C+label%3Aneeds-ux-action+-assignee%3Abhanuja-s+-assignee%3Arainbj+-assignee%3Aamzn-leenguy+-assignee%3Ayuyihsu&type=issues </td></tr>
+       
+<tr><td width="200px;"> Bugs without priority </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+-label%3Apriority%2Fcritical%2Cpriority%2Fblocker%2Cpriority%2Fmajor%2Cpriority%2Fminor+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+ </td></tr>
+
+<tr><td width="200px;"> Blocker/Critical bugs </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+label%3Apriority%2Fcritical%2Cpriority%2Fblocker+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+ </td></tr>
+         
+<tr><td width="200px;"> Major bugs </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+label%3Apriority%2Fmajor+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+ </td></tr>
+       
+<tr><td width="200px;"> Needs-ux-action </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Aneeds-ux-action </td></tr>
+<tr><td width="200px;"> Ui-ux/in-design </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Aui-ux%2Fin-design </td></tr>
+<tr><td width="200px;">Tickets that need UX approval:</td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Astatus%2Fneeds-ux-approval </td></tr></table>
 
 
 ### Tags
