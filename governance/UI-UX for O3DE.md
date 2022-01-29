@@ -109,13 +109,13 @@ We have now established some ground rules about how ticket triage will work. The
     * A reviewer will have the ability to add remove tags in open conversation with the community. During that time the reviewer (Sig UI-UX representative) will be able to drive the conversation around what labels should be added and removed. Long term, I would expect that specific reviewer members who earn the label "Sig UX UI staff" would earn these same abilities and could step in to drive these conversations. Please see more about leveling up below.
 
 
-### Search Queries Daily:
+### Search Queries - Daily:
 <table style="border:0px;">
 <tr><td width="200px;"> Invidiual Pull request </td><td> https://github.com/o3de/o3de/pulls/review-requested/@me </td></tr>
 <tr><td> Mentions </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+mentions%3A%40me </td></tr>
 </table>
 
-### Search Queries Triage:
+### Search Queries - Triage:
 
 <table style="border:0px;">
 <tr><td width="200px;"> Team Pull requests </td><td> https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+label%3Asig%2Fui-ux+-label%3Astatus%2Fneeds-ux-approval%2Cneeds-ux-action%2Cstatus%2Fux-approved </td></tr>
