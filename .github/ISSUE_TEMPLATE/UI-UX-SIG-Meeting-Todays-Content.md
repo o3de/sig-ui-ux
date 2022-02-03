@@ -1,7 +1,7 @@
 ---
 name: UI-UX SIG Meeting — todays content
-about: SIG UX-UI bi-weekly meeting program feedback, global updates, triage, and design review
-title: SIG UX-UI bi-weekly meeting to review todays most important topics for UX team
+about: XX-XX-XXXX: SIG UX-UI bi-weekly meeting: Expert interviews, global updates, Roadmap visibility, and design review
+title: XX-XX-XXXX: SIG UX-UI bi-weekly meeting: <THIS WEEKS TOPIC>
 labels: 'UX-biweekly-meeting'
 assignees: ''
 
