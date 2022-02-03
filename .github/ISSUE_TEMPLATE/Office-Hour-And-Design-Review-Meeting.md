@@ -1,10 +1,9 @@
 ---
-name: SIG-UI-UX Office hours
-about: SIg UX-UI design review and office hours
-title: Open UX UI Office hours 
+name: SIG UX-UI Office hours
+about: SIG UX-UI design review and office hours
+title: XX-XX-XXXX - Open UX UI Office hours (Add your request in comments)
 labels: 'UX-OfficeHours'
 assignees: ''
-
 ---
 
 
