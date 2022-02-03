@@ -1,8 +1,8 @@
 ---
 name: SIG UX-UI Meeting — todays content
-about: SIG UX-UI bi-weekly meeting - Expert interviews, global updates, Roadmap visibility, and design review
+about: SIG UX-UI Bi-Weekly Meeting - Expert interviews, global updates, Roadmap visibility, and design review
 title: XX-XX-XXXX - SIG UX-UI bi-weekly meeting - <THIS WEEKS TOPIC>
-labels: 'UX-biweekly-meeting'
+labels: 'UX-Bi-Weekly-Meeting'
 assignees: ''
 ---
 
