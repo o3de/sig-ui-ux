@@ -1,4 +1,4 @@
-# UI/UX for Open 3D Engine
+# Contributing to UI-UX SIG
 
 Welcome O3DE contributors! If you are reading this document,it's likely because of one of three reasons: 
 
