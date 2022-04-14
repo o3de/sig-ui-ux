@@ -26,38 +26,22 @@ Each of these workflows are broad and will look different depending on what proj
 
 ## Measure the UX quality
 
-To ensure we know where we are in terms of the UX quality in each workflow, we measure the workflows against the following measurement framework-
+To ensure we know where we are in terms of the UX quality in each workflow, we measure each of the workflows based on the following measurement framework. The assessments are conducted through two approaches:
+1. Bi-quaterly survey
+2. Bi-quaterly walk the engine user studies
 
-### System Usability Score: 
-
-The System Usability Scale (SUS) is an industry standard to measure the usability of a product or service. It was created by John Brooke in 1986. In UX, SUS is always used in an online survey or after each usability testing session for users to fill in. The results of the survey will be calculated using a formula, and the formula will output a SUS score which would provide a reference to the team how good/bad the usability is in the product/service. See the chart below.
-
-| SUS Score	| Adjective Rating |
-| --- | --- |
-| > 80.3	| Excellent |
-| 68 - 80.3	| Good |
-| 51-68	| Poor |
-| < 51	| Awful |
-
-### Time-on-task: 
-
-We measure the time and completion rate it takes for users to interact with key, critical workflows for the first time, and how they progress throughout the time. This data will help us understand the quality of each workflow. The longer time users would use a workflow to accomplish a task, the lower performance the workflow has.
-
-### Issues identified: 
-Each of the usability issues identified from the workflow evaluations will be prioritized in Blocker, Critical, Major, etc. against the goals we setup for each milestone. It is suggested all the Blocker and Critical issues should be addressed by the end of each milestone, and we will evaluate the status of the workflow against how many issues are left unaddressed.
-
-Based on the measurement framework above, the following rating system is defined:
-
-* **Excellent (5)** - A new customer should be able to accomplish the identified workflow within a reasonable amount of time without the use of documentation or help from others. The SUS score should be above 80.3. All the blocker, critical and major issues identified through the evaluation are addressed.
-*	**Good (4)** - A new customer should be able to accomplish the workflow with some help from documentation or instructions from others within a reasonable amount of time. The SUS score should be above 68. All the blocker and critical issues should be addressed.
-*	**Passable (3)** - A new customer will need to read the documentation and follow instructions to learn how to perform certain tasks in the workflow, and they can confidently accomplish the workflow the second time within a reasonable amount of time and without any help of documentation. The SUS score should be above 51. All the blocker and critical issues should be addressed.
-*	**Poor (2)** - A new customer isn’t able to accomplish the workflow easily due to blocker or critical issues, or it might take them extremely long hours to accomplish the workflow with workaround solutions. The SUS score is below 51.
-*	**Failed (1)**- A new customer isn’t able to accomplish the workflow even after reading the documentation, and there’s no workaround solution.
+| CX Health Score | Workflow Completion Rate | User Satisfaction (1-5) | Workflow Efficiency / Learning Curve | 
+| --- | --- | --- | --- |
+| Excellent | High (>78%): Able to complete the workflow within the expected time.  | 5 | Efficiency High / Learning curve LowI can easily get started with the workflow without any help. When I need to work on advanced scenarios, there are sufficient docs/tutorials to assist me. The amount of time to complete and master the workflow exceeds my expectation. |
+| Good | Mid-High (65-78%): Able to complete the workflow within the expected time. | 4 | Efficiency Mid / Learning curve LowI can easily get started with the workflow without any help. When I need to work on advanced scenarios, there are sufficient docs/tutorials to assist me. I can easily master the workflow, and the amount time to complete and master the workflow is meeting my expectation. |
+| Passable | Mid: (45-65%) Able to complete the workflow but the progress is slow. | 3 | Efficiency Low-Mid / Learning curve MidI need some help to get started and complete the workflow. There are sufficient docs/tutorial to assist me when I need help. The amount of time to complete and master the workflow is longer than I expected but is acceptable. |
+| Poor | Low (25-45%): Difficult to complete the workflow. | 2 | Efficiency Low / Learning curve HighI need a lot of help to get started and complete the workflow. There is no sufficient docs/tutorials to assist me, and the process is extremely long. Even I follow the docs/tutorials to finish the workflow in the first time, I might still not be able to complete the workflow on my own the next time. |
+| Failed | Blocked (<25%): Unable to complete the workflow. | 1 | Efficiency Blocked / Learning curve HighI am unable to complete the workflow. There is no docs or tutorials to assist me, and there's no workaround solutions. |
 
 
-## More about Rev the Engine Program
+## Rev the Engine goal and scope for 2022
 
-1. [Goals for 2021](https://github.com/o3de/sig-ui-ux/blob/main/rev-the-engine/2021Goal.md)
+https://docs.google.com/spreadsheets/d/1vxxpp2g0li90JocEHcvUJobnwx2p1IQxQJFd23KguHE/edit#gid=54683120
 
 ## Join Us!
 
