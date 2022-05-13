@@ -1,6 +1,6 @@
 # O3DE UI/UX Office Hours and UX Review
 
-The UI/UX SIG is running Office Hours every Wednesday at 11am Pacific Time. The purpose of the office hours is to provide O3DE community a place to ask for assistant or discuss concerned topics for user research, user experience design, user interface design, and visual design related to O3DE. 
+The UI/UX SIG is running Office Hours every Thursday at 10am Pacific Time. The purpose of the office hours is to provide O3DE community a place to ask for assistant or discuss concerned topics for user research, user experience design, user interface design, and visual design related to O3DE. 
 
 **You can use office hours to:**
 
