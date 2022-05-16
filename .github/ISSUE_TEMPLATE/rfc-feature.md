@@ -2,7 +2,7 @@
 name: RFC Feature request
 about: Create Feature RFC for this project
 title: Proposed RFC Feature =description=
-labels: 'rfc-feature','sig/ui-ux
+labels: 'rfc-feature,sig/ui-ux'
 assignees: ''
 
 ---
