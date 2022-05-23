@@ -1,7 +1,7 @@
 # O3DE Materials' Report
 
 **Research Study:** Materials' Workspace Research Study  
-**Last Updated:**   2022-03-10
+**Last Updated:**   2022-03-10  
 **Contributor:** [bhanuja-s](https://github.com/bhanuja-s)
 
 - [Problem Statement](#problem-statement)
