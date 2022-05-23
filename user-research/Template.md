@@ -4,6 +4,17 @@
 **Last Updated:**    [DD MONTH YYYY]  
 **Contributor(s):**  [X [Name](https://github.com/x-name)]
 
+- [Problem Statement](#problem-statement)
+- [Report Summary](#report-summary)
+- [Methodology](#methodology)
+  - [Research Objectives](#research-objectives)
+  - [Participants](#participants)
+  - [Study Format](#study-format)
+- [Research Insights](#research-insights)
+  - [ABC](#abc)
+  - [XYZ](#xyz)
+- [Next Steps](#next-steps)
+
 ## Problem Statement
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing commodo elit at imperdiet. Viverra aliquet eget sit amet. Erat nam at lectus urna duis convallis.
 
@@ -24,12 +35,12 @@ Bibendum ut tristique et egestas quis ipsum. Eu mi bibendum neque egestas. Trist
 ## Research Insights
 Viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat. Ut tristique et egestas quis ipsum. Porttitor eget dolor morbi non arcu risus quis. Ut placerat orci nulla pellentesque dignissim. At erat pellentesque adipiscing commodo elit at imperdiet dui.
 
-### 1. X
+### ABC
 
 > "Scelerisque eleifend donec pretium vulputate sapien. Eu scelerisque felis imperdiet proin fermentum leo vel.
 > Et magnis dis parturient montes nascetur ridiculus. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin." — Participant B
 
-### 2. X
+### XYZ
 
 ## Next Steps
 - A
