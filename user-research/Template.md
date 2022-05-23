@@ -1,7 +1,7 @@
 # [X Research] Report
 
 **Research Study:**  [X] Research Study  
-**Last Updated:**    [DD MONTH YYYY]  
+**Last Updated:**    [YYYY-MM-DD]  
 **Contributor(s):**  [X [Name](https://github.com/x-name)]
 
 - [Problem Statement](#problem-statement)
