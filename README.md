@@ -47,9 +47,9 @@ Now that you know a little about us here are a few links to get you started.
 **How do I see when you will meet?**
 - We meet weekly at 10am PST on Thursday in discord. [See agenda here](https://github.com/o3de/sig-ui-ux/issues) and our  [calendar here](https://lists.o3de.org/g/o3de-calendar/calendar#).
     
--   On the 1st, 3rd, and 5th week of the month. We meet and talk about all things new and interesting with O3DE.
+-   Every Thursday we have open office hours from 9-10am PST. We meet and talk about all ope tickets and issues.
     
--   On the 2nd and 4th week we do our design review and design workshop.
+-   On the 2nd and 4th week, on Tuesday we do our design review, RTE update, and whats new demos.
     
 **Can we meet outside of meetings?**
    
