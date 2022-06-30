@@ -45,9 +45,9 @@ Now that you know a little about us here are a few links to get you started.
 -   Yes! You can join our [email mailing list](https://lists.o3de.org/g/sig-UI-UX) for meeting announcements and upcoming research participation sign ups. If you prefer Discord, you can chat to us there too for any immediate questions.
     
 **How do I see when you will meet?**
-- We meet weekly at 10am PST on Thursday in discord. [See agenda here](https://github.com/o3de/sig-ui-ux/issues) and our  [calendar here](https://lists.o3de.org/g/o3de-calendar/calendar#).
+- We meet once or twice a week on discord. [See agenda here](https://github.com/o3de/sig-ui-ux/issues) and our  [calendar here](https://lists.o3de.org/g/o3de-calendar/calendar#).
     
--   Every Thursday we have open office hours from 9-10am PST. We meet and talk about all ope tickets and issues.
+-   Every Thursday we have open office hours from 9-10am PST. We meet and talk about all ope tickets and issues. Feel free to sign up.
     
 -   On the 2nd and 4th week, on Tuesday we do our design review, RTE update, and whats new demos.
     
