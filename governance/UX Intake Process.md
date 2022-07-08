@@ -1,4 +1,4 @@
-# UX Request Intake Process
+# UI-UX Intake Process
 
 ## Introduction
 
