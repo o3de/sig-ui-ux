@@ -31,7 +31,7 @@ Any tickets that has a user facing element in it (e.g., user workflow, UI pages,
 
     * If the ticket is a pull request and requires SIG-UI-UX approval before releasing to the customers, answer the following question- have you reached out to SIG-UI-UX before the pull request is created?
         * If YES, move to Step 3.
-        * If NO, go to "**Q4: What if I fail to involve SIG-UI-UX or involve SIG-UI-UX too late for my tickets?**"
+        * If NO, go to "**Q6: What if I fail to involve SIG-UI-UX or involve SIG-UI-UX too late for my tickets?**"
 * *Step 3*, if you need to SIG UI-UX’s help immediately, attend **SIG-UI-UX Office Hours on Thursday at 9am PST** to review your request with us (see **Q9** for how to sign up SIG-UI-UX Office Hours). Otherwise, we will respond offline to your request in 2-week’s time.
 
 ### *Q3: When should I send my UX request to the UX team / SIG-UI-UX?*
