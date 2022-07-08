@@ -56,7 +56,7 @@ Yes you can still push the solution to Development without SIG UI-UX approval. H
 
 ### *Q8: How do I know the status of my UX request?*
 
-Once we accept your request, we will assign your request to the “O3DE UX Roadmap” to the Project. We will update the status of the ticket through the Project status. You can also visit O3DE UX Roadmap (https://github.com/o3de/o3de/projects/10) to see what SIG-UI-UX is working on.
+Once we accept your request, we will assign your request to the “O3DE UX Roadmap” to the Project. We will update the status of the ticket through the Project status. You can also visit [O3DE UX Roadmap](https://github.com/o3de/o3de/projects/10) to see what SIG-UI-UX is working on.
 
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/75449675/177917004-5b9cd4d2-5459-4c49-a948-b8a9546046c1.png">
 
