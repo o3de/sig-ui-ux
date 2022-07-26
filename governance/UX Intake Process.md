@@ -52,7 +52,7 @@ We recommend involving SIG-UI-UX before you start any development work. Involvin
 
 ### *Q7: Can I still push the solution to Development without SIG UI/UX approval?*
 
-Yes you can still push the solution to Development without SIG UI-UX approval. However, the solution should still be reviewed by SIG UI-UX even it’s been released. Please create a UX review ticket on GHI to review the solution with us as soon as you can. It is to ensure the solution follows the UX guidelines and meets the high quality bar to give user a consistent and intuitive experience.
+Yes you can still push the solution to Development without SIG UI-UX approval. However, the solution should still be reviewed by SIG UI-UX even it’s been released. Please create a UX review ticket on GHI to review the solution with us as soon as you can. This is to ensure the solution follows the UX guidelines and meets the high quality bar to give user a consistent and intuitive experience.
 
 ### *Q8: How do I know the status of my UX request?*
 
