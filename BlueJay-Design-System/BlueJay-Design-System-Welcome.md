@@ -23,7 +23,7 @@ Please feel free to use Discord as your first point of contact.
 
 **For other ways of contacting the team, including bug, usability issues, or feature request inquiries:**
 
-Use our <a href="https://google.com](https://github.com/o3de/sig-ui-ux/issues/new/choose" target="_blank">reporting templates</a>in Github.
+Use our <a href="https://google.com](https://github.com/o3de/sig-ui-ux/issues/new/choose" target="_blank"> reporting templates</a>in Github.
 
 ---
 
