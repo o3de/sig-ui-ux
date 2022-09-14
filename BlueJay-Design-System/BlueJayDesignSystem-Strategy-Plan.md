@@ -30,7 +30,7 @@ The design system is divided into two parts:
 
 1. **The Design Library:** The library that UX designers can pull down into their own design tool to help them create new workflows. This library contains pre-set styles, components and layouts to help accelerate and align the designs for the editor. These include (but aren’t limited to):
     1. **A Style Guide:** [Guidelines](https://www.o3de.org/docs/tools-ui/branding-guidelines/) around O3DE brand usage, including color, icons, and writing style.
-    2. **UI Components:** The various individual components that make up the editor experience and their rules around how/when to use them in what scenario. Very important for developers building upon the QT library. For more information on this UI Checklist, see here.
+    2. **UI Components:** The various individual components that make up the editor experience and their rules around how/when to use them in what scenario. Very important for developers building upon the QT library. For more information on this UI Checklist, see [here](https://github.com/o3de/o3de/issues/11664).
     3. **UX Patterns:** Various behavioral patterns that designer and developers must consider when creating new workflows in the editor, including accessibility and industry standards.
 2. **Pattern documentation:** Public documentation on [o3de.org](https://o3de.org/docs/tools-ui/) for BJDS will detail all the specs on usage, application and behaviors that have been defined for the editor so far. All the documentation will include API references, code references and visual examples, allowing developers to easily experiment with extending the editor. Documentation will cover simple text explanations and visual examples of the core components and patterns.
 
@@ -69,6 +69,6 @@ Overall, out of the 89 categories, 26 pages of documentation have so far been co
 **Future:**
 
 3. **Phase 3 [Planned]** - Phase 3 focuses on completing the remaining 5 UI Components throughout Q1 of 2023. For more information on this UI Checklist, see [here](https://github.com/o3de/o3de/issues/11999).
-4. **Phase 4 [Planned]** - Phase 4 plans to cover the 63 topics across Pattern Libraries, Components and Writing guidelines that were not covered in Phase 1. This work is planned for Q2, 2023 onwards. For information on what these 63 topics cover, will be posted soon.
+4. **Phase 4 [Planned]** - Phase 4 plans to cover the 63 topics across Pattern Libraries, Components and Writing guidelines that were not covered in Phase 1. This work is planned for Q2, 2023 onwards.
 
 If you are interested in discussing or contributing to the slated items that the SIG UI UX group is planning to focus on, you can here on our [BJDS projects board](https://github.com/orgs/o3de/projects/9/views/3).
