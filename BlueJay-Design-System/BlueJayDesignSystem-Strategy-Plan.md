@@ -69,6 +69,6 @@ Overall, out of the 89 categories, 26 pages of documentation have so far been co
 **Future:**
 
 3. **Phase 3 [Planned]** - Phase 3 focuses on completing the remaining 5 UI Components throughout Q1 of 2023. For more information on this UI Checklist, see [here](https://github.com/o3de/o3de/issues/11999).
-4. **Phase 4 [Planned]** - Phase 4 plans to cover the 63 topics across Pattern Libraries, Components and Writing guidelines that were not covered in Phase 1. This work is planned for Q2, 2023 onwards. For more information on what these 63 topics cover, see here.
+4. **Phase 4 [Planned]** - Phase 4 plans to cover the 63 topics across Pattern Libraries, Components and Writing guidelines that were not covered in Phase 1. This work is planned for Q2, 2023 onwards. For information on what these 63 topics cover, will be posted soon.
 
 If you are interested in discussing or contributing to the slated items that the SIG UI UX group is planning to focus on, you can here on our [BJDS projects board](https://github.com/orgs/o3de/projects/9/views/3).
