@@ -1,4 +1,5 @@
-![Header-Image_2](https://user-images.githubusercontent.com/82846749/188246233-0af7aa3e-118c-4a08-b4a7-e980f3f013f0.jpg)
+![Header-Image](https://user-images.githubusercontent.com/82846749/190480333-1d949135-13ef-49ae-85f1-d38efdd5e384.jpg)
+
 ---
 <p align="center">
     <a href="https://www.o3de.org/docs/tools-ui/" target="_blank">BlueJay Design System on O3DE Docs</a>
