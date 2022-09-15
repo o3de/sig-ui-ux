@@ -12,7 +12,7 @@ assignees: ''
 Hi O3DE Community,
 We want to invite you to our UX UI design review and office hours. 
 
-- **Date/Time:**  XX/XX/XXXX @ 10:00am PT
+- **Date/Time:**  XX/XX/XXXX @ 9:00am PT
 - **Location:** [Discord SIG-UI-UX Voice Room](https://discord.gg/Mc6jStmuMK)
 - **Moderator:** UI/UX SIG Committee
 - **Note Taker** UI/UX SIG Committee
@@ -35,7 +35,7 @@ The [SIG-UI-UX Meetings](https://github.com/o3de/sig-ui-ux/tree/main/meetings) r
 
 
 ## Schedule
-- The Sig UX-UI meeting (Triage and UX updates) will be on every other Wednesday at 10-11pm PST
+- The Sig UX-UI meeting (Triage and UX updates) will be on every Thursday at 9-10am PST
 - The design review/Office hours will be on the opposite weeks. 
 - This means every Wednesday we have something fun for UX going on.
 
@@ -66,7 +66,4 @@ What should I bring to the office hour:
    - What is your UX issue related to: user interface, usability testing, learnability, documentation etc?
    - Materials/Workflows of the existing product. Sketches or wire-frames of ideas. PR/FAQ are also help.
 
-## Cut-off time / cancellation 
-- The UI-UX SIG Office Hours is sign-up based. We will check the topics 24 hours before the scheduled office hour, if no one signs up in the session, we will lock down the agenda of that day.
-- If you are unable to attend after signing up, Please just reach out in discord or on the ticket to let us know about the change.
 
