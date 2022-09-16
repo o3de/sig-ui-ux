@@ -1,7 +1,7 @@
 ---
 name: SIG UX-UI Office hours
 about: SIG UX-UI design review and office hours
-title: XX-XX-XXXX - Open UX UI Office hours (Add your request in comments)
+title: XX-XX-XXXX - SIG-UI-UX Office Hours (Add your request in comments)
 labels: 'UX-OfficeHours'
 assignees: ''
 ---
@@ -10,7 +10,7 @@ assignees: ''
 ## SIG-UI-UX Office Hours for XX-XX-XXXX
 
 Hi O3DE Community,
-We want to invite you to our UX UI design review and office hours. 
+We want to invite you to our UX design review and office hours. 
 
 - **Date/Time:**  XX/XX/XXXX @ 9:00am PT
 - **Location:** [Discord SIG-UI-UX Voice Room](https://discord.gg/Mc6jStmuMK)
@@ -25,20 +25,11 @@ The [SIG-UI-UX Meetings](https://github.com/o3de/sig-ui-ux/tree/main/meetings) r
 - **How much time you might need:**
 - **Any UX resource you have already been working with and if their attendance is required.**
 
-
-##  This is a bi-weekly meeting will cover the following items.
-- UI-UX SIG team will show some of the O3DE workflows that are currently in-progress.
-- UI-UX SIG will provide feedback to other UX designers about their O3DE designs.
-- UI-UX SIG will provide feedback to the community about O3DE work they are working on.
-- Will have open conversations about UX/UI related problems coming down the pipeline.
-- Discuss UX tickets
-
-
-## Schedule
-- The Sig UX-UI meeting (Triage and UX updates) will be on every Thursday at 9-10am PST
-- The design review/Office hours will be on the opposite weeks. 
-- This means every Wednesday we have something fun for UX going on.
-
+##  This is a weekly meeting will cover the following items.
+- SIG UI-UX team will show some of the O3DE workflows that are currently in-progress.
+- SIG UI-UX will provide feedback to others about their O3DE feature design work.
+- SIG UI-UX have open conversations about UX/UI related problems coming down the pipeline.
+- Triage SIG UI-UX related tickets
 
 ## How do I sign up get feedback?
 - You can sign up by going to https://github.com/o3de/sig-ui-ux/issues 
@@ -49,7 +40,6 @@ The [SIG-UI-UX Meetings](https://github.com/o3de/sig-ui-ux/tree/main/meetings) r
    - The amount of time you might need to review this topic
    - Any individuals you have been already working
    - Any specific people you would like to attend this session for help.
-
 
 ## How can I use office hours:
 - Request a "sign-off" on your project from the UI-UX SIG.
