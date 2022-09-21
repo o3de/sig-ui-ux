@@ -1,19 +1,13 @@
 
-# Special Interest Group UI & UX (SIG UI-UX)
+# Special Interest Group UI & UX (SIG-UI-UX)
 
-  
+## Description of SIG UI-UX
 
-## Description of the SIG UX-UI:
+The SIG-UI-UX (Special Interest Group for UI & UX) is a group of individuals who care deeply about the user experience of O3DE. The group is comprised of UX Experts, Developers, Game Artists, and an array of community contributors. Anyone, who cares about the user experience of O3DE, is welcome to join. This SIG is a crosscutting team that works alongside other SIGs to raise the bar of the engine's user experience.
 
-The UI-UX SIG (Special Interest Group for UI and UX) is a collection of individuals who care deeply about the UX and UI experience of O3DE. It’s comprised of UX experts, developers, game artist, and an array of community contributors. Anyone who cares about user experience of O3DE is welcome to join. The UI UX SIG is a across cutting team that works with all of our other SIG programs to raise the bar of engine user experience.
+## What We Do
 
-  
-
-## What the SIG UI-UX Does:
-
-We manage the work stream for O3DE interfaces, including new workflows or design patterns for upcoming features coming from within O3DE. We also undertake ongoing issues or features reported through GitHub. We also spend a percentage of our time designing a systematic approach to working with people using our designs in their own tools. This is done by creating and maintaining our design system called the BlueJay design system where developers can build tools without UX guidance. Last but not least, we run and maintain a set of quality standard for all of O3DE interfaces over the long term. This program is called Rev the Engine and it allows us to track and set goals the health of O3DE’s interfaces over many iterations.
-
-  
+We manage the work stream for O3DE interfaces, including new workflows and design patterns for upcoming features within O3DE. We also undertake ongoing issues or features reported through GitHub. Additionally, we spend a percentage of our time designing a systematic approach to working with users of our designs within their tools. We do this by creating and maintaining our design system, the Blue Jay Design System. Ultimately, we run and maintain a set of quality standard for O3DE, this is through the Rev the Engine program which allows us to track and set goals for the health of O3DE over many iterations.
 
 ## How to Contribute SIG UI-UX
   
