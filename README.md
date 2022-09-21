@@ -24,8 +24,8 @@ You can learn much more by reading our [Contributing README](https://github.com/
 With the above information detailing our purpose and contribution, the information below will help you get started.
 
 #### Who is the Chair and Co-chair?
-- Chair: Joshua Rainbolt, Sr. UX Designer at Amazon
-- Co-chair: Bhanuja Sanghavi, UX Designer at Amazon
+- Chair: Joshua Rainbolt (@rainbj), Sr. UX Designer at Amazon
+- Co-chair: Bhanuja Sanghavi (@bhanuja-s), UX Designer at Amazon
 
 #### How do I get in contact with you?
 We use Discord, join in on the conversation on the [#sig-ui-ux channel](https://discord.com/channels/805939474655346758/816043761687068712).
