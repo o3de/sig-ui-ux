@@ -120,7 +120,7 @@ We have now established some ground rules about how ticket triage will work. The
 <table style="border:0px;">
 <tr><td width="200px;"> Team Pull requests </td><td> https://github.com/o3de/o3de/pulls?q=is%3Apr+is%3Aopen+label%3Asig%2Fui-ux+-label%3Astatus%2Fneeds-ux-approval%2Cneeds-ux-action%2Cstatus%2Fux-approved </td></tr>
        
-<tr><td> Blocker / Critical </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fblocker%2Cpriority%2Fcritical+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+ </td></tr>
+<tr><td> Blocker / Critical (-UX project) </td><td> [https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fblocker%2Cpriority%2Fcritical+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+](https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fblocker%2Cpriority%2Fcritical+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+-project%3Ao3de%2F9) </td></tr>
        
 <tr><td> Major </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fmajor+-label%3Aneeds-ux-action%2Cneeds-ux-info%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design%2Cstatus%2Fux-approved+ </td></tr>
        
