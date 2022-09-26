@@ -1,4 +1,10 @@
 # 2022 Q2 O3DE User Survey
+
+Table of Content
+[Introduction](#Introduction)
+[Survey Findings](#Survey%201%20Findings)
+
+
 ## Introduction
 
 O3DE SIG UI-UX conducted a survey in June 2022. The goal of this survey is to help the O3DE community get good insights on what we’ve been doing right, and where else we should focus on to improve further in the future releases.
