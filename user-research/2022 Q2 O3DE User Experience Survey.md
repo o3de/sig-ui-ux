@@ -1,6 +1,7 @@
 # 2022 Q2 O3DE User Survey
 
 Last Updated: [2022-09-22]
+
 Contributor(s): [amzn-yuyi](https://github.com/yuyihsu)
 
 - [Introduction](#introduction)
