@@ -1,7 +1,9 @@
 # 2022 Q2 O3DE User Survey
 
 Table of Content
+
 [Introduction](#Introduction)
+
 [Survey Findings](#Survey%201%20Findings)
 
 
