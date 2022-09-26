@@ -1,11 +1,26 @@
 # 2022 Q2 O3DE User Survey
 
-Table of Content
+Last Updated: [2022-09-22]
+Contributor(s): [amzn-yuyi](https://github.com/yuyihsu)
 
-[Introduction](#Introduction)
-
-[Survey Findings](#survey-findings)
-
+- [Introduction](#introduction)
+- [Survey Findings](#survey-findings)
+	- [Overview](#overview-of-the-satisfaction-confidence-and-efficiency-for-the-9-workflows)
+	- [Detailed Workflow Analysis](#detailed-workflow-analysis)
+		- [Analysis for Onboarding Experience](#1-analysis-for-onboarding-experience)
+		- [Analysis for Experience Design](#2-analysis-for-experience-design)
+		- [Analysis for Actor Development](#3-analysis-for-actor-development)
+		- [Analysis for World Building](#4-analysis-for-world-building)
+		- [Analysis for Look Development](#5-analysis-for-look-development)
+		- [Analysis for Multiplayer](#6-analysis-for-multiplayer)
+		- [Analysis for Team Collaboration](#7-analysis-for-team-collaboration)
+		- [Analysis for Engine Extension](#8-analysis-for-engine-extension)
+		- [Analysis for Packaging & Deployment](#9-analysis-for-packaging--deployment)
+	- [Help System Satisfaction Analysis](#help-system-satisfaction-analysis)
+	- [Ranking of the Feature Analysis](#ranking-of-the-feature-satisfaction)
+- [General Demographics Analysis](#general-demographics-analysis)
+- [What Action Did We Take After?](#what-action-did-we-take-after-this-survey)
+- [What's Next?](#whats-next)
 
 
 ## Introduction
@@ -64,7 +79,7 @@ Among the nine workflows, four of them (i.e., Actor Development, World Building,
 There was not a significant difference between average Satisfaction, Confidence, and Efficiency scores across the 9 workflows.
 
 ### Detailed Workflow Analysis
-1.  ### Analysis for Onboarding Experience
+### 1. Analysis for Onboarding Experience
 	Onboarding Experience includes visiting O3DE website, downloading and installing 	O3DE, creating and building a project, customizing a project with gems, and launching the O3DE Editor to start building content for the first time. 
 
 ![](https://lh6.googleusercontent.com/7ve-gJJvM0BiK5t2mFPdisMTZzJGBOmMBhZ6bebfCz9D3pL7ZWbqo8IkDGeAQfdiio-GikZ5MW-2Ji46hIAbwxyQyIzu810SG2mcWX1QNMZT8W_e12aiZytDQt0o20QKvL6fpmrV1iSo-PzZee6qvvJmKuoEGB40IrNwej7qhh59QdhPdHTB-Y9BNg)
@@ -88,7 +103,7 @@ There was not a significant difference between average Satisfaction, Confidence,
 	    
         “Implementing the better visualized progress bar (than [xxx/xxx]) or estimated building time when building the project via Project Manager could have a positive effect on first impressions.”
 
-2.  ### Analysis for Experience Design
+### 2. Analysis for Experience Design
 	Experience Design includes building game objects using entities, prefabs, and components; setting up game mechanics using physics, camera, input system, Script Canvas, UI Editor, etc.; and interacting with asset browser, viewport, and play mode, etc.
 
 ![](https://lh3.googleusercontent.com/QCKe_CJ76X0hm8ZlsgwyjSe395oSG-aUyEJSLpT6dx5M95Wcwg2TqHn7h8sfq9LEEiEMr3fPpo4NuW0SDTrDUS6rDeZx-C6ffil4Pbp05MwzxUZi9co7vJFYZ0t1eUd0QjSYaXpp2gQKlGj0daBnvZ4EzHaX9f1H2AR6yOr8nTLNpVFwzP6TBO7QHQ)
@@ -174,7 +189,7 @@ There was not a significant difference between average Satisfaction, Confidence,
 	    
         “Importing files into the engine is a little too complicated, compared to other engines.”
 
-3. ### Analysis for Actor Development
+### 3. Analysis for Actor Development
     Actor Development includes putting together actor assets, building animgraph, motion events, ragdoll, hit detection, cloth, etc.; and setting up the actor in the scene to interact with the environment.
 
 ![](https://lh5.googleusercontent.com/GjVYjv2X71RPYzq_v607VhRTy-LJjBibdGYLRCfQyyDaERddNACUHBqNwla4FqzQD4hOuRpL4wV0-8fzNfUGCf7dH5YKiWiS6Irt3KJnPot5mvmBRUk1EdEVqag3GCTljNulK8anBxHAzUrROOyKnyjlxE_4RTg1eJRydRFI2GuD2AwM__hZV_zEQg)
@@ -196,7 +211,7 @@ There was not a significant difference between average Satisfaction, Confidence,
 		    
         “Zooming with scroll wheel in animation editor is extremely sensitive.”
 
-4. ### Analysis for World Building
+### 4. Analysis for World Building
 	World Building includes setting up vegetation and landscape using dynamic vegetation system and landscape canvas, building terrain using the terrain system, and prototyping the world with the White Box Tool.
 
 ![](https://lh5.googleusercontent.com/5O3mqs8aTtEGy1QFsiP3UJTcWTNQQabjxU7C0HcZ7iow3Zb-clDgTPZ8GEi7lwKu7r2GYDYUwvNeJY6YNHheGOkTRTpCYa--BSulfD2kVRw9EC86ZOU3a6YttbkL24-1OJpu2d9j9H0sfWYfSh7Sfn8C7Pl01EpwCVMUtpnVjkd3mne3xOkp1EVXsw)
@@ -236,7 +251,7 @@ There was not a significant difference between average Satisfaction, Confidence,
 		    
         “I hope the terrain design can be improved. Because when I was testing, I often encountered mold wear problems.”
 
-5.  ### Analysis for Look Development
+### 5. Analysis for Look Development
 	Look Development includes setting up materials, textures, lighting, PostFX, etc. for a 3D model or a beautiful corner.
 
 ![](https://lh6.googleusercontent.com/kiCfY8gaIzx97LS5OCIJFaMJec_SIEF-pAyEt0IKXIHeABla8OwOaI9KJDOxfh15BY8SHn0cPs5iUIgaiO88ZI9smdGMvxkikYiu-fVzbqVhu_CmJcj9X_ycyXKLwg6AubquloiI3fhNrxJqqU5BSLZZGQ7hrONrIlwSeqyqSb23BnM2abvnM-VibA)
@@ -258,7 +273,7 @@ There was not a significant difference between average Satisfaction, Confidence,
 		
         “Lighting a level with outdoor and indoor lighting is very tricky, especially if it involves a 24hr day cycle. I still don't know the correct way to use the ray-traced probe grid with large outdoor areas so I get ambient lighting kilometers away, and still have the correct precision for indoor areas.”
 
-6.  ### Analysis for Multiplayer
+### 6. Analysis for Multiplayer
 	Multiplayer includes setting up multiplayer content and networking for a game.
 
 ![](https://lh3.googleusercontent.com/t2BQK8JW0MY2yDliS44yYRgD8mYgZ1StFKgHEeudYc30yF2AHwDJdjxlg7FdgVG-0hrmhj1WuOfjVGGGpFTE3zEguWSAqvuWMp5ro9WTvHbhiL_MnxK23ffIB8zUOCwIqm1vY1W5VvrE6cc8OOQNnzgYP-FkCVCQ6rZSxdm9T9eXHWJxIhzTeEStjw)
@@ -282,7 +297,7 @@ There was not a significant difference between average Satisfaction, Confidence,
 	    
         “Multiplayer workflow on Linux itself feels very tedious, whenever any larger issue occurs, when both the engine and the operating system are taken into account.”
 
-7. ### Analysis for Team Collaboration
+### 7. Analysis for Team Collaboration
 	Team Collaboration includes integrating with versioning control tools, setting up a project and its environment for the team to work together, onboarding team members, sharing and collaborating in the same files, etc.
 
 ![](https://lh4.googleusercontent.com/hyme5Egji4BIqhNf3V9vfOjLc63mTy6WF51jVjhNZKR1TRLIEXuxb0Z5n0Mzo1scEhCg_XMfq6lvu_lsm_2CPf0pVimE-csDHCICoFFetzvo9ss7x4l7mgSwFRz3dRgQUEdUR5-zGKj5wPEbauWGECK8C2x7F03P16CBzdJjt9KQzh0X5DyK2Wa5wQ)
@@ -301,7 +316,7 @@ There was not a significant difference between average Satisfaction, Confidence,
 		
         “As part of the distributed store-like functionality, a game team should be able to put a game project and game objects up on a private git repo and onboard a team member. I'd like to see that flow and possibly automate some of it through the program manager.”
 
-8. ### Analysis for Engine Extension
+### 8. Analysis for Engine Extension
 	Engine Extension includes building new gems that contain new tool UIs, new components, new Script Canvas nodes, etc. to extend the engine capability to support various functions a project would need.
 
 ![](https://lh5.googleusercontent.com/6-oIgTGpbUmhYs-QElUnnJoYBUWlGc6N63T_dtwJuNZrg4MHIuoPAMg63NJhALM_DedZIbIM_I-BjimXG3oC-QI5fe0YFgpAh4T3kFyavgh6PUmolYO-wXRWqUIKeGNEhOh1RCc_orNxrwbGaPrjafXSH27i2TUY42f6APrG_ZC2QT8YAbu48VhzwA)
@@ -316,7 +331,7 @@ There was not a significant difference between average Satisfaction, Confidence,
 		
         “Adding a component, especially if you use the atom defaults now typically means you have to create 7+ files and need to be added to different projects. <editorcomponent.h editorcomponent.cpp component.h component.cpp componentcontroller.h componentcontroller.cpp componentconfig.h> And many of these files need to be added to different projects. This is over-designing IMHO and significant friction to doing something that should be simple. Users should start with a simple 2 file setup until they get to the point where they have a good reason to split out into multiple files, and we should have a tool that quickly does all this for them, no hand creating and editing all these files!This is over-designing and friction.”
 
-9. ### Analysis for Packaging & Deployment
+### 9. Analysis for Packaging & Deployment
 	Packaging & Deployment includes packaging the project files and test the projects on other platforms or share the projects with others for play test.
 
 ![](https://lh6.googleusercontent.com/vXYN7nKyQf1Jiv837Qt0mK9YP3pGTFyyI4pQ8LwQLGnzx_N2RK7rNsGRe2b0jcM7rJIUOa2PoAOV-Aks_26OeKVe4akCikuPrXUtrEfZ5cjPPLHzXK_dNGZ2X0aPnv7yVXKqqF5Jnl9ywjLfd3hsMKzgczm6teCNLVpp3HfdsmFunDkPTgir7CKdPQ)
