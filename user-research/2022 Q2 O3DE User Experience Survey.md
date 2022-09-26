@@ -468,4 +468,4 @@ A development branch with the critical issues we identified fixed will be releas
 
 If you are interested in improving the user experience in O3DE with us, you have two ways to contribute. You can provide your feedback by filling out the Survey and participating in our Walk the Engine research in November. Or you can pick up the issues that are most relevant to you from the [Walk the Engine Issue Dashboard](https://github.com/o3de/o3de/projects/15) and work on the solutions.
 
-Please reach out to SIG UI-UX for more details.
+Please reach out to [SIG UI-UX](https://github.com/o3de/sig-ui-ux) if you have any questions or feedback to share.
