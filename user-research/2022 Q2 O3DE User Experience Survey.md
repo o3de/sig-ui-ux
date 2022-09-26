@@ -4,7 +4,8 @@ Table of Content
 
 [Introduction](#Introduction)
 
-[Survey Findings](#Survey%201%20Findings-1)
+[Survey Findings](#survey-findings)
+
 
 
 ## Introduction
