@@ -454,18 +454,22 @@ When comparing the data between the years of experience vs. user satisfaction on
 
 ![Are you working as a team or flying solo_.png](https://lh4.googleusercontent.com/CXR2No1ug3X4Og204YuVDUy76MCZgKp35avUZt9xpBNI5P6B-LTm7ZkUy7YT2PzpnWndLimxlwXFrSkGnACDk93PPxu27b1VBtBTnb-qTEg_kjMVJRKLS_jqo4mbNTa-Hrf_0WvqVBqclWFP5qcvhDLXG3U7bYQHOheGbR6hATbT8E_tNxrAdIMLdw)
 
-  
-  
 
-## What Action Did We Take After This Survey?
+## Using Qualitative Data to Deepen Understanding
 
-While the survey data can tell us how users feel about O3DE, we need a deeper understanding of the contexts of what caused users to select ‘Dissatisfied’ in certain tools or workflows. In June-August timeframe, we invited around 20 community members and conducted a series of Walk the Engine sessions while focused on the 5 common workflows users employ when building their content with O3DE: Onboarding Experience, Actor Development, Look Development, Multiplayer, and Engine Extension.
+While this quantitative survey data can point to areas of overall improvement in O3DE’s user experience, we need qualitative data to inform a deeper understanding of the results to guide the future evolution of the Engine’s user experience. During the summer months, qualitative interviews were conducted with 20 community members, focused on the five common workflows users employ when building their content with O3DE: Onboarding Experience, Actor Development, Look Development, Multiplayer, and Engine Extension.
 
-We were able to identify 138 issues, including feature requests and bugs, that either block or impact users from accomplishing their tasks. By using the quantitative data to hone it on opportunity areas, and using qualitative data to understand these areas more clearly, we were able to work with each SIG to improve the workflows with clarity and priority. You can find the issues tracked on the GitHub [2022 Walk the Engine Issue Dashboard](https://github.com/o3de/o3de/projects/15).
+Through these interviews, 138  issues were identified that either block or impact users from accomplishing their tasks. Using this quantitative data to pinpoint and prioritize areas for improvement  and more deeply understand these areas, SIG UI-UX worked with all of the other SIGs to improve these five workflows. You can find the issues tracked on the GitHub [2022 Walk The Engine Issues Dashboard](https://github.com/o3de/o3de/projects/15).
+
+A development branch with the critical issues we identified and fixed will be released in late October, and we will conduct another round of O3DE UI/UX research using this branch towards the end of this year to verify if the improvements meet user expectations.
+
+
 ## What’s Next?
 
 A development branch with the critical issues we identified fixed will be released in late October, and we will conduct another round of O3DE Survey and Walk The Engine research using this branch in November and December timeframe to verify if the improvements meet user’s expectations.
 
-If you are interested in improving the user experience in O3DE with us, you have two ways to contribute. You can provide your feedback by filling out the Survey and participating in our Walk the Engine research in November. Or you can pick up the issues that are most relevant to you from the [Walk the Engine Issue Dashboard](https://github.com/o3de/o3de/projects/15) and work on the solutions.
+If you are interested in improving the user experience in O3DE with us, there are two ways to contribute. First, we invite you to join our upcoming study to provide your feedback on using O3DE. Second, we encourage you to join us on this journey by checking out the [Walk the Engine Issue Dashboard](https://github.com/o3de/o3de/projects/15), identifying 2-3 issues that are most relevant to you, and working on the solutions for them. 
 
-Please reach out to [SIG UI-UX](https://github.com/o3de/sig-ui-ux) if you have any questions or feedback to share.
+Reach out to [SIG UI-UX](https://github.com/o3de/sig-ui-ux) if you have any questions or feedback about the survey findings—we’d love to hear from you!
+
+
