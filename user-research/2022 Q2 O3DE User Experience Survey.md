@@ -49,7 +49,7 @@ These 9 common game development workflows include:
     
 9. **Packaging & Development:** includes packaging the project files and test the projects on other platforms or share the projects with others for play test.
 
-The survey was designed to answer the following questions-
+Within each workflow, users were asked to rate:
 
 - Workflow satisfaction: how satisfied they are with the workflow
 - Workflow confidence: how confident they feel they achieved their stated objectives after completing the workflow
