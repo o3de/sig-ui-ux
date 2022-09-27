@@ -51,11 +51,10 @@ These 9 common game development workflows include:
 
 The survey was designed to answer the following questions-
 
--   Workflow satisfaction: How satisfied the user is with each of the 9 UX workflows
--   Workflow confidence: How confident the user feel they achieved the goal they set for each of the 9 UX workflows
--   Workflow efficiency: How efficient the user feel using each of the 9 UX workflows
--   Feature satisfaction: Within each of the workflows, how satisfied the user is with the features that form the workflow, and do they have any feedback for what they want to see us improve (with an open-ended question)
--   Demographic impact: How the user's role (e.g. Designer, Artist, Programmer, etc.) and years of experience with the game engines in the past impact their perspective of the nine workflows
+- Workflow satisfaction: how satisfied they are with the workflow
+- Workflow confidence: how confident they feel they achieved their stated objectives after completing the workflow
+- Workflow efficiency: how efficient they feel their time spent on the workflow
+- Feature satisfaction: how satisfied they are with their experience using the features within the workflow.
     
 
 #### Data Collection and Cleaning
