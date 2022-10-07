@@ -137,7 +137,7 @@ We have now established some ground rules about how ticket triage will work. The
        
 <tr><td width="200px;"> Bugs without priority </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+-label%3Apriority%2Fcritical%2Cpriority%2Fblocker%2Cpriority%2Fmajor%2Cpriority%2Fminor+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+ </td></tr>
 
-<tr><td width="200px;"> Blocker/Critical bugs </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+label%3Apriority%2Fcritical%2Cpriority%2Fblocker+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+ </td></tr>
+<tr><td width="200px;"> Blocker/Critical bugs </td><td>https://github.com/o3de/o3de/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Apriority%2Fblocker%2Cpriority%2Fcritical+-label%3Astatus%2Fneeds-ux-approval%2Cstatus%2Fux-approved+-project%3Ao3de%2F9+ </td></tr>
          
 <tr><td width="200px;"> Major bugs </td><td> https://github.com/o3de/o3de/issues?q=is%3Aopen+is%3Aissue+label%3Asig%2Fui-ux+label%3Akind%2Fbug+label%3Apriority%2Fmajor+-label%3Aneeds-ux-action%2Cstatus%2Fneeds-ux-approval%2Cui-ux%2Fin-design+ </td></tr>
        
