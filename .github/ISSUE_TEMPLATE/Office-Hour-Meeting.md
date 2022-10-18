@@ -1,8 +1,8 @@
 ---
-Name: SIG-UI-UX Office Hour
-About: SIG-UI-UX Office Hour & Design Review
-Title: XX-XX-202X - SIG-UI-UX Office Hour
-Labels: 'UX-Office-Hour'
+name: SIG-UI-UX Office Hour
+about: SIG-UI-UX Office Hour & Design Review
+title: XX-XX-202X - SIG-UI-UX Office Hour
+labels: 'UX-Office-Hour'
 ---
 
 ## SIG-UI-UX Office Hour for XX-XX-202X
