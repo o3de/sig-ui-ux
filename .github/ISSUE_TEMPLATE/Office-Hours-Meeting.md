@@ -5,8 +5,6 @@ title: XX-XX-202X — SIG-UI-UX Office Hours
 labels: 'UX-Office-Hours'
 ---
 
-UX Office Hours is a weekly forum for makers and startups to get constructive design feedback. Together we will review your work and come up with solutions to your design challenges.
-
 ## SIG-UI-UX Office Hours for XX-XX-202X
 
 Hi, 
