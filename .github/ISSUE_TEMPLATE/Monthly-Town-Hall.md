@@ -1,7 +1,7 @@
 ---
 name: SIG-UI-UX Monthly Town Hall
 about: SIG-UI-UX Monthly Town Hall is a monthly meeting for to discuss our roadmap, topics of interest, and read the latest research findings, review design, or have an open conversation on upcoming plans.
-title: XX-XX-202X — SIG-UI-UX [MONTH] Town Hall
+title: XX-XX-202X — SIG-UI-UX Monthly Town Hall
 labels: 'Monthly-Town-Hall'
 ---
 ## SIG-UI-UX Town Hall for [MONTH] 202X
