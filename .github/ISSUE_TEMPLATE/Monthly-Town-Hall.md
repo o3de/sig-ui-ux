@@ -19,9 +19,6 @@ In this meeting, we will hear about topics of interest, or to read the latest re
 
 In comparison to the weekly Office Hour, scheduled every Thursday, we will discuss higher level topics, and our strategy and goals. We won't be focusing on individual bugs, ticket triage, or release issues. 
 
-### Past meetings:
- https://github.com/o3de/sig-ui-ux/issues?q=is%3Aissue+is%3Aclosed+todays+in%3Atitle
-
 ### Agenda
 This monthly meeting, typically, follows this agenda:
 1. Welcome & Introductions
