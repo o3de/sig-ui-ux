@@ -11,9 +11,9 @@ Hi,
 We want to invite you to the SIG-UI-UX Monthly Town Hall.
 
 **Date/Time:** XX-XX-202X @ 11:00 PT ([Timezone Converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TSC&iso=20221011T08&p1=234&ah=1))  
-**Location:** [Discord SIG-UI-UX Voice Channel](https://discord.gg/Mc6jStmuMK)
-**Moderator:** SIG-UI-UX Committee
-**Note Taker:** SIG-UI-UX Committee
+**Location:** [Discord SIG-UI-UX Voice Channel](https://discord.gg/Mc6jStmuMK)  
+**Moderator:** SIG-UI-UX Committee  
+**Note Taker:** SIG-UI-UX Committee  
 
 In this meeting, we will hear about topics of interest, or to read the latest research findings, review designs, or to discuss new patterns or upcoming plans. We will send a reminder a week before this meeting, so feel free to propose a topic to this issue, by leaving a comment, and we will plan accordingly.
 
