@@ -5,7 +5,7 @@ We run Office Hours every Thursday, and the purpose of doing so is to provide th
 **Time:** every Thursday @ 9:00 PT ([Timezone Converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TSC&iso=20221011T08&p1=234&ah=1))  
 **Location:** [Discord SIG-UI-UX Voice Room](https://discord.gg/Mc6jStmuMK)  
 
-If you're not sure of your need for our Office Hours, feel free to reach out to us on the [#sig-ui-ux](https://discord.gg/tvYZUKJK) Discord channel. We can be, typically, involved throughout the phases of your project, and it's better to have a chance to **power up** your project than skip any opportunities.
+If you're not sure of your need for our Office Hours, feel free to reach out to us on the [#sig-ui-ux](https://discord.gg/tvYZUKJK) Discord channel. We can be, typically, involved throughout a project, and it's better to have a chance to **power up** your project than skip any opportunities.
 
 ### Sign Up
 
