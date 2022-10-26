@@ -12,6 +12,8 @@ Customers have told us through RTE and in customer interviews that our Asset Bro
 - **Phase 3:** Advanced operations - expression searches, favorites, and multiple asset browser tabs.
 - **Phase 4:** Asset Browser inspector panel - Detailed view about your assets and all assets associated to that asset.
 
+### Project links
+- https://github.com/orgs/o3de/projects/16/views/1
 
 ### phase 1	
 
