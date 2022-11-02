@@ -1,7 +1,7 @@
 ---
 name: SIG-UI-UX Office Hours
 about: SIG-UI-UX Office Hours is a weekly forum for designers and developers to get constructive feedback. We will review your work and come up with solutions to your issues and design challenges.
-title: XX-XX-202X — SIG-UI-UX Office Hours
+title: XX-XX-202X — SIG-UI-UX Office Hours (Sign Up in the comments)
 labels: 'UX-Office-Hours'
 ---
 
@@ -13,8 +13,6 @@ We want to invite you to the SIG-UI-UX Office Hours & Design Review.
 
 **Date/Time:** XX-XX-202X @ 9:00 PT ([Timezone Converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TSC&iso=20221011T08&p1=234&ah=1))  
 **Location:** [Discord SIG-UI-UX Voice Room](https://discord.gg/Mc6jStmuMK)  
-**Moderator:** SIG-UI-UX Committee  
-**Note Taker:** SIG-UI-UX Committee  
 
 The SIG-UI-UX [Meetings](https://github.com/o3de/sig-ui-ux/tree/main/meetings) repository contains the history past calls, including a link to the agenda, notes, and resources.
 
@@ -24,7 +22,7 @@ To sign up for the Office Hours, please add a **comment** to this ticket with th
 **Discord Username:**    
 **Topic of Conversation:**    
 **Time Needed:**   
-**Specified UX Attendees?**  
+**Any specific Attendees?**  
 
 You can sign up for future meetings in SIG-UI-UX's [GitHub Issues](https://github.com/o3de/sig-ui-ux/issues).
 
