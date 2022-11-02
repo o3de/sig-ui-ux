@@ -1,35 +1,35 @@
-# O3DE UI-UX SIG - Meetings
- 
+# O3DE SIG-UI-UX: Meetings
+
+The O3DE SIGs host regular community meetings to give updates on their contribution to the project, and its overall progress. These meetings are recurring events to give the community an opportunity to make their voice heard.
+
+You can reach out to the Open 3D Foundation on [Discord](https://discord.gg/F8jjUmpCBG) or sign up to each SIGs' [mailing list](https://lists.o3de.org/groups) to receive updates for the recurring events.
+
 ## Meetings
 
-Each SIG hosts a regular community meeting to update the community about the progress of the project and the SIG's contribution to the project. It is a recurring event to give everyone a chance to have their voice heard. The SIG holds its meetings each - TBD - , and future meetings are held based on the [agendas on GitHub](https://github.com/o3de/foundation/issues?q=is%3Aopen+label%3Asig%2Fui-ux+label%3Amtg-agenda+).
+### Weekly Office Hour
+We hold weekly Office Hours to provide the community a chance to share their ideas and get involved in the project, the time is set aside to answer questions, address issues, provide feedback, and discuss topics with the members of the community.
 
-Please [reach out on Discord](https://discord.gg/F8jjUmpCBG) or [Sign up on the Mailing Lists](https://lists.o3de.org/groups) to get notifications for the recurring events.
+**Time:** every Thursday @ 09:00 PT ([Timezone Converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TSC&iso=20221011T08&p1=234&ah=1))  
+**Location:** [Discord SIG-UI-UX Voice Channel](https://discord.gg/Mc6jStmuMK)
+
+### Monthly Town Hall
+We also run a monthly Town Hall meeting, where we hear about topics of interest, or read the latest research findings, review designs, or discuss new patterns or upcoming plans.
+
+**Time:** first Tuesday of every month @ 11:00 PT ([Timezone Converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TSC&iso=20221011T08&p1=234&ah=1))  
+**Location:** [Discord SIG-UI-UX Voice Channel](https://discord.gg/Mc6jStmuMK)
 
 ## Who can Attend
 
-O3DE cannot work without the help and input from as many of its community members as possible. *You do not need anyone’s permission to get involved and contribute to the project.* The #sig-ui-ux channel on [O3DE Discord](https://discord.gg/Mc6jStmuMK) is a great place to begin getting involved. Many of our community members regularly share ideas, updates, and resources there. You can also find a number of topics under the [GitHub Discussions area](https://github.com/o3de/foundation/discussions) which need your input.
+Everyone, regardless of membership within the SIG itself, is welcome to attend. The #sig-ui-ux channel on [Discord](https://discord.gg/Mc6jStmuMK) is a great place to get started. If you would like to observe the meeting proceedings, you may show up unannounced at your leisure. If you'd like to ask a question, or have an agenda item or a topic of interest to discuss, please comment in the corresponding [issue](https://github.com/o3de/sig-ui-ux/issues) posted ahead of the meeting.
 
-## Agenda Items
+O3DE cannot work without help and input from its community members, and *you don't need anyone's permission to get involved and contribute to this project*. You can also find a number of topics under the [GitHub Discussions area](https://github.com/o3de/foundation/discussions) which need your input.
 
-You can find a link to the proposed agenda for the next call in the table below. The agenda for each meeting is saved as [an issue on Github](https://github.com/o3de/foundation/issues?q=label%3Asig%2Fui-ux+label%3Amtg-agenda+) under the O3DE [Foundation repository](https://github.com/o3de/foundation).
+## Previous Meetings, Notes & Resources
 
-Please feel free to propose any of your topics, thoughts, or areas you feel are important to discuss.
-
-# Previous Meetings
-
-Below is a list of all prior completed meetings and related resources.
-
-## Documentation Special Interest Group
-
-| No   | Date       | Time | Agenda  | Media | Notes | Resources |
-| ---- | ---------- | ---- | ------- | ----- | ----- | ---- |
-| 0001 | 2021-07-22 | 0000 UTC | n/a | n/a | Link | Link |
-
-# General Resources
+Meeting notes will be generally committed to this repository.
 
 See [O3DE Resources](https://o3de.github.io/o3de/foundation) for additional information related to any SIG in O3DE.
 
-# Licensing
+## Licensing
 
 The O3DE/foundation repository and all contributions under this repository herein are licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Please note that, by contributing to this repository, whether via commit, pull request, issue, comment, or in any other fashion, **you are explicitly agreeing that all of your contributions will fall under the same permissive license.**
