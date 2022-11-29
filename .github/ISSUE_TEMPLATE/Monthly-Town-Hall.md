@@ -53,4 +53,4 @@ The SIG team will take a look at the ticket 24 hours prior to the scheduled meet
 If you’re unable to attend after proposing a topic, please reach out to us on the Discord #sig-ui-ux Text channel or comment on the [issue](https://github.com/o3de/sig-ui-ux/issues?q=is%3Aissue+is%3Aclosed+todays+in%3Atitle) to inform us before the meeting starts.  
 
 #### How can I view the agenda, notes, or recording of a previous meeting?
-You can view the previous meetings’ agenda on [GitHub](https://github.com/o3de/sig-ui-ux/issues?q=is%3Aissue+is%3Aclosed+todays+in%3Atitle). The meeting notes and recording will be attached to the issue as a comment.
+You can view the previous meetings’ agenda on [GitHub](https://github.com/o3de/sig-ui-ux/issues?q=is%3Aissue+is%3Aclosed+Town+Hall+in%3Atitle+). The meeting notes and recording will be attached to the issue as a comment.
