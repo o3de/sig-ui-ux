@@ -8,9 +8,14 @@ O3DE has been working hard on putting together some great new improvements for o
 Customers have told us through RTE and in customer interviews that our Asset Browser system is lacking some fundemental features and is not up to the industry standards. We have carefully listen to this feedback, anyalized, prioritized, and created a roadmap to add or enhance these features. To accomplish this, we’ve established an Asset Browser project team, designed the workflows, and have triaged a backlog of features into 4 upcoming releases.
 
 - **Phase 1:** File operations (coming soon) - Deleting, opening, moving, adding, duplicating, renaming and working with source control.
+  - (as a user I would like to... )
 - **Phase 2:** Layouts and views - Three different layouts, a new detail panel, and a search bar.
+  - (as a user I would like to... )
 - **Phase 3:** Advanced operations - expression searches, favorites, and multiple asset browser tabs.
+  - (as a user I would like to... ) 
 - **Phase 4:** Asset Browser inspector panel - Detailed view about your assets and all assets associated to that asset.
+ - (as a user I would like to... )
+- **Phase 5:**  Merge inspectors - Context aware inspector
 
 ### Project links
 - https://github.com/orgs/o3de/projects/16/views/1
