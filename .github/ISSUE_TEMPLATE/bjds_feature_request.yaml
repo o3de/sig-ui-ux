@@ -1,0 +1,19 @@
+---
+name: BJDS Feature Request
+about: Request a feature for the Blue Jay Design System Figma library.
+title: '[BJDS Bug]: '
+labels: 'bjds, needs-triage, sig/ui-ux'
+
+---
+
+body:
+  - type: markdown
+    attributes:
+      value: Use this template to request a feature in our [Figma library](https://www.figma.com/@o3dengine).
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the feature you're requesting. Provide details on your use case, and how it would benefit your customers.
+    validations:
+      required: true

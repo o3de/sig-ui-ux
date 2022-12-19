@@ -1,0 +1,20 @@
+---
+name: BJDS Bug Report
+about: Report a bug in the Blue Jay Design System Figma library.
+title: '[BJDS Bug]: '
+labels: 'bjds, needs-triage, sig/ui-ux'
+
+---
+
+body:
+  - type: markdown
+    attributes:
+      value: Use this template to report a bug in our [Figma library](https://www.figma.com/@o3dengine).
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Tell us more about the issue you are experiencing, and attach screenshots and/or videos to depict the bug if necessary
+      placeholder: What is the actual and expected behavior?
+    validations:
+      required: true

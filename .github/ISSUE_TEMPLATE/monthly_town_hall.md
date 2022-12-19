@@ -2,7 +2,8 @@
 name: SIG-UI-UX Monthly Town Hall
 about: SIG-UI-UX Monthly Town Hall is a monthly meeting for to discuss our roadmap, topics of interest, and read the latest research findings, review design, or have an open conversation on upcoming plans.
 title: XX-XX-202X — SIG-UI-UX Monthly Town Hall
-labels: 'monthly-town-hall'
+labels: 'sig/ui-ux, monthly-town-hall'
+
 ---
 
 ## SIG-UI-UX Town Hall for [MONTH] 202X
@@ -18,7 +19,7 @@ We want to invite you to the SIG-UI-UX Monthly Town Hall.
 
 In this meeting, we will hear about topics of interest, or to read the latest research findings, review designs, or to discuss new patterns or upcoming plans. We will send a reminder a week before this meeting, so feel free to propose a topic to this issue, by leaving a comment, and we will plan accordingly.
 
-In comparison to the weekly Office Hour, scheduled every Thursday, we will discuss higher level topics, and our strategy and goals. We won't be focusing on individual bugs, ticket triage, or release issues. 
+In comparison to the weekly Office Hour, scheduled every Thursday, we will discuss higher level topics, and our strategy and goals. We won't be focusing on individual bugs, ticket triage, or release issues.
 
 ### Agenda
 This monthly meeting, typically, follows this agenda:
@@ -35,6 +36,7 @@ To request a topic for the discussion, please add a **comment** to this issue wi
 **Time Needed:**   
 **Resources Required:**  
 
+---
 ## FAQ
 #### How else can I participate in or contribute to the UI-UX community?
 
