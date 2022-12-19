@@ -1,6 +1,6 @@
 ---
 name: BJDS Bug Report
-about: Report a bug in the Blue Jay Design System Figma library.
+description: Report a bug in the Blue Jay Design System Figma library.
 title: '[BJDS Bug]: '
 labels: 'bjds, needs-triage, sig/ui-ux'
 
