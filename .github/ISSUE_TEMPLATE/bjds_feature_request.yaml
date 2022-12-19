@@ -1,11 +1,7 @@
----
 name: BJDS Feature Request
-about: Request a feature for the Blue Jay Design System Figma library.
-title: '[BJDS Bug]: '
+description: Request a feature for the Blue Jay Design System Figma library.
+title: '[BJDS Feature Request]: '
 labels: 'bjds, needs-triage, sig/ui-ux'
-
----
-
 body:
   - type: markdown
     attributes:
