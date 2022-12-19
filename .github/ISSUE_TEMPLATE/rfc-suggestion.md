@@ -1,5 +1,5 @@
 ---
-name: RFC Suggestion request
+name: RFC Suggestion Request
 about: Create Suggestion RFC for this project
 title: Proposed RFC Suggestion =description=
 labels: 'rfc-suggestion'
@@ -31,13 +31,13 @@ As a rule of thumb, receiving encouraging feedback from long-standing community 
 Single paragraph explanation of the suggestion
 
 ### What is the motivation for this suggestion?
-Why is this important? 
+Why is this important?
 What are the use cases for this suggestion?
 What should the outcome be if this suggestion is implemented?
 
 ### Suggestion design description:
 - Explain the suggestion with enough detail that someone familiar with the process and environment of the project can understand the suggestion and explain it to others.
-- It should include at least one end-to-end example of how the community will use it along with the specific details with outlying use cases. 
+- It should include at least one end-to-end example of how the community will use it along with the specific details with outlying use cases.
 
 - If there is any new terminology, it should be defined here.
 
@@ -51,11 +51,11 @@ What should the outcome be if this suggestion is implemented?
 - Explain how this suggestion will be work within the O3DE project.
 
 ### Are there any alternatives to this suggestion?
-- Provide any other alternative ways that have been considered. 
+- Provide any other alternative ways that have been considered.
 - Explain what the impact might be of not implementing this suggestion.
 - If there are other similar suggestions previously used, list them and explain which parts may have solved some or all of this problem.
 
 ### What is the strategy for adoption?
 - Explain how new and existing users will adopt this suggestion.
-- Point out any efforts needed if it requires coordination with multiple SIGs or other projects. 
+- Point out any efforts needed if it requires coordination with multiple SIGs or other projects.
 - Explain how it would be taught to new and existing O3DE users.

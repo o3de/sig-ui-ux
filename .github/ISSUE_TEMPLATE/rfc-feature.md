@@ -1,5 +1,5 @@
 ---
-name: RFC Feature request
+name: RFC Feature Request
 about: Create Feature RFC for this project
 title: Proposed RFC Feature =description=
 labels: 'rfc-feature,sig/ui-ux'
@@ -36,13 +36,13 @@ Single paragraph explanation of the feature
 Why is this important? What are the use cases? What will it do once completed?
 
 ### Feature design description:
-- Explain the design of the feature with enough detail that someone familiar with the environment and framework can understand the concept and explain it to others. 
-- It should include at least one end-to-end example of how a developer will use it along with specific details, including outlying use cases. 
+- Explain the design of the feature with enough detail that someone familiar with the environment and framework can understand the concept and explain it to others.
+- It should include at least one end-to-end example of how a developer will use it along with specific details, including outlying use cases.
 
 - If there is any new terminology, it should be defined here.
 
 ### Technical design description:
-- Explain the technical portion of the work in enough detail that members can implement the feature. 
+- Explain the technical portion of the work in enough detail that members can implement the feature.
 
 - Explain any API or process changes required to implement this feature
 
