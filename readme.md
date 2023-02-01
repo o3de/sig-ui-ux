@@ -7,6 +7,8 @@ The SIG-UI-UX is a group of individuals who care deeply about the user experienc
 
 We manage the work stream for O3DE interfaces, including new workflows and design patterns for upcoming features within O3DE. We also undertake ongoing issues or features reported through GitHub. Additionally, we spend a percentage of our time designing a systematic approach to working with users of our designs within their tools. We do this by creating and maintaining our design system, the Blue Jay Design System. Ultimately, we run and maintain a set of quality standard for O3DE, this is through the Rev the Engine program which allows us to track and set goals for the health of O3DE over many iterations.
 
+You can learn more about our work via our [roadmap](https://github.com/orgs/o3de/projects/9/views/1).
+
 ## How to Contribute
 
 As a contributor, you can help in the following ways:
@@ -26,6 +28,9 @@ With the above information detailing our purpose and contribution, the informati
 #### Who is the Chair and Co-chair?
 - Chair: Joshua Rainbolt (@rainbj), Sr. UX Designer at Amazon
 - Co-chair: Bhanuja Sanghavi (@bhanuja-s), UX Designer at Amazon
+
+#### What are we working on?
+You can learn more about our current work by visiting our [roadmap](https://github.com/orgs/o3de/projects/9/views/1).
 
 #### How do I get in contact with you?
 We use Discord, join in on the conversation on the [#sig-ui-ux channel](https://discord.com/channels/805939474655346758/816043761687068712).
