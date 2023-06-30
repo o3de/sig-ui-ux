@@ -9,6 +9,12 @@ We manage the work stream for O3DE interfaces, including new workflows and desig
 
 You can learn more about our work via our [roadmap](https://github.com/orgs/o3de/projects/9/views/1).
 
+We also offer **weekly office hours**, where you can sign up and get help with any questions or challenges you may be facing.
+
+→ **[Sign-Up Sheet](https://docs.google.com/document/d/1cb7SXakzer1aaKoZ6dr1n9RhjoLwdww5HhFxoGPwOWU/edit?usp=sharing)** ←
+
+These sessions are held every **Thursday @ 09:00 PT** ([Timezone Converter](https://www.timeanddate.com/worldclock/fixedtime.html?msg=TSC&iso=20221011T08&p1=234&ah=1)) via Discord, on the [#sig-ui-ux](https://discord.gg/Mc6jStmuMK) voice channel. We also have a persistent **GitHub Issue** that you can visit for more information: https://github.com/o3de/sig-ui-ux/issues/114.
+
 ## How to Contribute
 
 As a contributor, you can help in the following ways:
@@ -37,12 +43,6 @@ We use Discord, join in on the conversation on the [#sig-ui-ux channel](https://
 
 #### Can I join your mailing list? What will I be notified about?
 Yes! You can join our [mailing list](https://lists.o3de.org/g/sig-UI-UX) for meeting announcements and upcoming research participation opportunities. If you prefer Discord, you can chat to us there too for any immediate questions.
-    
-#### When do you meet?
-We meet once or twice a week on Discord. View our [agenda](https://github.com/o3de/sig-ui-ux/issues) and our [calendar](https://lists.o3de.org/g/o3de-calendar/calendar#).
-
-- Bi-weekly Meeting: On the 2nd and 4th Tuesday at 11:00 PT, we meet to do Design Reviews, RTE Updates, and What's New Demos. 
-- Office Hours: Every Thursday at 9:00 PT, we meet to discuss the topics on the [agenda](https://github.com/o3de/sig-ui-ux/issues), and then the open issues. Feel free to sign-up!
 
 #### Can we meet outside of meetings?
 
